@@ -1,1 +1,9 @@
 
+document;
+#document
+document.getElementsByClassName("list");
+HTMLCollection(3) [li.list, li.list, li.list]0: li.list1: li.list2: li.listlength: 3[[Prototype]]: HTMLCollection
+document.getElementsByClassName("list")[2].innerHTML="pb7';
+VM1663:1 Uncaught SyntaxError: Invalid or unexpected token
+document.getElementsByClassName("list")[2].innerHTML="pb7";
+'pb7'
