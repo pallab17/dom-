@@ -1,5 +1,5 @@
 document.querySelector("a");
-// selecting the anchor tag
+// selecting the attribute with "a" tag
 
 
 <a href=​"https:​/​/​www.google.com">​Google​</a>​
@@ -9,6 +9,7 @@ document.querySelector("a");
 
 
 document.querySelector("a").attributes;
+// 
 
 
 
