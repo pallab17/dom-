@@ -2,6 +2,10 @@
 // but text content sudhu text r content tai show kore not the tag 
 
 
+// when i am manipulating the h1 tag using inner html and using a em tag the em tag should be written inside the double 
+// inverted commas
+
+
 document.querySelector("h1").innerHTML;
 ' <strong>Hello</strong> '
 document.querySelector("h1").textContent;
