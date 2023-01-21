@@ -1,5 +1,5 @@
 document.querySelector("a");
-// selecting the attribute with "a" tag
+// selecting the  "a" tag
 
 
 <a href=​"https:​/​/​www.google.com">​Google​</a>​
@@ -22,5 +22,10 @@ NamedNodeMap {0: href, href: href, length: 1}
 
 
 document.querySelector("a").getAttribute("href");
+
+
+
+
+
 'https://www.google.com'
 document.querySelector("a").setAttribute("href","https://www.fb.com");
