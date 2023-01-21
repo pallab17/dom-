@@ -1,2 +1,6 @@
 
 // making a class file in css and using that classname in js to style one element in console
+
+
+
+document.querySelector("h1").classList.add("huge");
