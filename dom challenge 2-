@@ -1,2 +1,6 @@
 
 // changing the color the anchor tag using the query selector in te console
+document.querySelector(" li a");
+<a href=​"https:​/​/​www.google.com">​Google​</a>​
+document.querySelector(" li a").style.color="red";
+'red'
