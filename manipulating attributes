@@ -29,4 +29,8 @@ document.querySelector("a").getAttribute("href");
 
 
 'https://www.google.com'
+// output
+
+
+
 document.querySelector("a").setAttribute("href","https://www.fb.com");
