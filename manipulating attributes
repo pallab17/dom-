@@ -1,4 +1,7 @@
 document.querySelector("a");
+// selecting the anchor tag
+
+
 <a href=​"https:​/​/​www.google.com">​Google​</a>​
 document.querySelector("a").attributes;
 NamedNodeMap {0: href, href: href, length: 1}
