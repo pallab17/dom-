@@ -13,7 +13,7 @@ HTMLCollection(3) [li.list, li.list, li.list]0: li.list1: li.list2: li.listleng
 
 
 document.getElementsByClassName("list")[2].innerHTML="pb7';
-
+// changing the 3rd element r value to pb7 
 
 
 
