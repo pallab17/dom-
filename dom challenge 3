@@ -1,2 +1,6 @@
 
  // changing the color of button using js manipulation 
+ 
+ 
+document.querySelector("button").style.backgroundColor="yellow";
+'yellow'
