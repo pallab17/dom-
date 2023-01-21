@@ -22,6 +22,7 @@ NamedNodeMap {0: href, href: href, length: 1}
 
 
 document.querySelector("a").getAttribute("href");
+// requesting the value that href consists of inside the a tag
 
 
 
