@@ -9,7 +9,7 @@ document.querySelector("a");
 
 
 document.querySelector("a").attributes;
-// selecting the attributes with "a" tags
+// requesting the attributes attached with "a" tags
 
 
 
