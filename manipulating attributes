@@ -15,6 +15,12 @@ document.querySelector("a").attributes;
 
 
 NamedNodeMap {0: href, href: href, length: 1}
+// output
+
+
+
+
+
 document.querySelector("a").getAttribute("href");
 'https://www.google.com'
 document.querySelector("a").setAttribute("href","https://www.fb.com");
