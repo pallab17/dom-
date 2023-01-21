@@ -34,3 +34,5 @@ document.querySelector("a").getAttribute("href");
 
 
 document.querySelector("a").setAttribute("href","https://www.fb.com");
+// now i am changing the value of the attribute(href) from 'https://www.google.com' to "https://www.fb.com" 
+
